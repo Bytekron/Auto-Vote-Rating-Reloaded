@@ -1,6 +1,7 @@
 # Auto Vote Rating - Chrome Extension
 <details>
 <summary>List of sites that the extension supports</summary>
+<a href="https://minecraftserver.buzz">Minecraft Server List Buzz</a>  
 <a href="http://topcraft.club/">topcraft.club</a>  
 <a href="https://mctop.su/">mctop.su</a>  
 <a href="http://mcrate.su/">mcrate.su</a>  
