@@ -1,4 +1,10 @@
 # Auto Vote Rating - Chrome Extension
+
+The extension will be continued in this fork. 
+
+I probably won't maintain all minecraft server lists, but many. Also I added more modern and newer ones. 
+
+
 <details>
 <summary>List of sites that the extension supports</summary>
 <a href="https://minecraftserver.buzz">Minecraft Server List Buzz</a>  
